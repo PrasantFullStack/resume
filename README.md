@@ -4,7 +4,7 @@
 Welcome to my resume repository. You can find my latest resume below:
 
 ## 🔗 Download Resume (PDF)
-👉 [Click to Download](https://github.com/PrasantFullStack/resume/raw/main/Prashant_Singh_JavaFullStack_Resume.pdf)
+👉 [Click to Download](https://github.com/PrasantFullStack/resume/raw/main/PrasantLatestResume.pdf)
 
 ---
 
