@@ -33,7 +33,7 @@ resume/
 - 🔗 LinkedIn: https://www.linkedin.com/in/prasant-singh-745ba1353/
 - ▶️ YouTube: https://www.youtube.com/@LearnWithPrashantSingh
 -  💼 Naukri: https://www.naukri.com/mnjuser/profile
-- 🚀 Hiriest: https://hiriest.com/profile/your-username
+- 🚀 Hiriest: https://www.hirist.tech/myprofile
 
 ---
 
