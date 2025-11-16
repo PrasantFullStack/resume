@@ -16,6 +16,8 @@ Welcome to my resume repository. You can find my latest resume below:
 - Git, GitHub, Docker
 - AI Tools: ChatGPT, Whisper, NotebookLM, Canva AI, FFmpeg
 
+- thank you so much🙏
+
 ---
 
 ## 📁 Repository Structure
